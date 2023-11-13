@@ -15,7 +15,7 @@ This Streamlit app leverages the power of GPT-4 LLM, Langchain, and Streamlit to
 #### Upload Document:
 Upload an earnings call transcript in PDF format.
 #### Process Document:
-Click the "Process Document" button to analyze and summarize the transcript.
+Click the ```Process``` Document button to analyze and summarize the transcript.
 #### View Summaries:
 Explore one-line topic descriptors and detailed bulleted summaries for each topic.
 #### Chatbot Interaction:
